@@ -74,7 +74,7 @@ yarn dev
 
 Quoc Bao - quocbaoo.dev@gmail.com
 
-Personal link: [https://github.com/QuocBaoo](https://github.com/QuocBaoo)
+Personal link: [https://github.com/QuocBeoo](https://github.com/QuocBeoo)
 
 Demo link: [https://template-health-app.vercel.app](https://template-health-app.vercel.app)
 
