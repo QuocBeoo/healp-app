@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://health-app-by-quoc-baoo.vercel.app">
+  <a href="https://template-health-app.vercel.app">
     <img src="public/app_logo.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -75,6 +75,8 @@ yarn dev
 Quoc Bao - quocbaoo.dev@gmail.com
 
 Personal link: [https://github.com/QuocBaoo](https://github.com/QuocBaoo)
+
+Demo link: [https://template-health-app.vercel.app](https://template-health-app.vercel.app)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
