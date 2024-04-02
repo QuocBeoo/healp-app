@@ -40,10 +40,13 @@ A web application for health care.
 * Some css effects to make the interface more beautiful
 * All data on the web is random
 * 📦 Click on auto scroll box
+  
 [![Page Record Screen Shot][scroll-box-screenshot]](https://health-app-by-quoc-baoo.vercel.app/record)
 * 🛠️ Graphs are filtered by day, week, month, year
+  
 [![Page Record Screen Shot][body-record-screenshot]](https://health-app-by-quoc-baoo.vercel.app/record)
 * 🔩 Responsive support for all devices: macbook, iPad, iPhone, window, tablet, android, ...
+  
 [![Page Record Screen Shot][resp-mac-screenshot]](https://health-app-by-quoc-baoo.vercel.app/record)
 [![Page Record Screen Shot][resp-tablet-screenshot]](https://health-app-by-quoc-baoo.vercel.app/record)
 [![Page Home Screen Shot][resp-ip-screenshot]](https://health-app-by-quoc-baoo.vercel.app)
@@ -66,16 +69,12 @@ yarn
 yarn dev
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 ## Contact
 
-Quoc Bao - ngquocbao98@gmail.com
+Quoc Bao - quocbaoo.dev@gmail.com
 
-Project Link: [https://gitlab.com/QuocBaoo/health-app](https://gitlab.com/QuocBaoo/health-app)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+Personal link: [https://github.com/QuocBaoo](https://github.com/QuocBaoo)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
